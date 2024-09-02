@@ -1,0 +1,8 @@
+{
+	"cronos": {
+		"Factory": {
+			"address": "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11",
+			"startBlock": 6731
+		}
+	}
+}
